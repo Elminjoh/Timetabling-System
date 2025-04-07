@@ -1,9 +1,11 @@
-Timetable for Student ID: S2345
-Group: Group B
+Timetable for Student ID: S1234
+Group: Group A
 ---------------------------------------------------------------
 Module                   Day            Time                Room                Lecturer            Session
 ---------------------------------------------------------------
+info and database        Monday         09:00:00-10:00:00   Newton 202          MR Johnson          Lab
+System Software          Wednesday      15:00:00-16:00:00   John Clare 005      DR Patel            Lecture
+Intro to Programming     Tuesday        10:00:00-11:00:00   John Clare 005      MR Harris           Lecture
 Web Development          Friday         14:00:00-15:00:00   MAE 301             MS Evans            Lab
-ai and machine learning  Tuesday        13:00:00-14:00:00   John Clare 102      DR Williams         Lab
-Data Structures          Tuesday        11:00:00-12:00:00   John Clare 102      DR Williams         Lab
+info and database        Monday         09:00:00-10:00:00   Newton 202          MR Johnson          Lab
 ---------------------------------------------------------------

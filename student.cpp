@@ -124,7 +124,7 @@ void Student::student_menu() {
                 break;
             case 0:
                 cout << "Logging out...\n";
-                break;
+                return; // Exit the menu loop
             default:
                 cout << "Invalid choice, please try again.\n";
         }

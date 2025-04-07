@@ -32,7 +32,7 @@ int main() {
                 isloggedIn = adminUser.Admin_login();
                 if (isloggedIn) {
                     adminUser.Admin_menu();
-                    return 0; // Exit after successful login and menu
+                  //  return 0; // Exit after successful login and menu
                 }
                 break;
 
@@ -40,7 +40,7 @@ int main() {
                 isloggedIn = studentUser.Student_login();
                 if (isloggedIn) {
                     studentUser.student_menu();
-                    return 0; // Exit after successful login and menu
+                 //   return 0; // Exit after successful login and menu
                 }
                 break;
 

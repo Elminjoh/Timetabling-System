@@ -912,7 +912,7 @@ void admin::Admin_menu() {
                     break;
                 case 14:
                     cout << "Logging out...\n";
-                    break;
+                    return; // Exit the menu loop
                 default:
                     cout << "Invalid choice, please try again.\n";
             }
